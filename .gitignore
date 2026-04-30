@@ -1,0 +1,17 @@
+# Credentials — never commit
+.env
+.env.local
+.env.*.local
+credentials.json
+
+# Bun / Node
+node_modules/
+bun.lockb
+bun.lock
+*.log
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp

@@ -1,0 +1,14 @@
+{
+  "name": "brandfetch-playground",
+  "version": "1.0.0",
+  "description": "Interactive playground for all 4 Brandfetch APIs — Logo, Brand, Search, and Transaction",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "bun run server.ts",
+    "dev": "bun --watch server.ts"
+  },
+  "engines": {
+    "bun": ">=1.0.0"
+  }
+}
