@@ -2,7 +2,9 @@
 
 An interactive playground that exercises **all 4 [Brandfetch](https://brandfetch.com) APIs** in one polished single-page app. Search any company, inspect its full brand profile, customize logos, generate copy-paste embed code, identify merchants from raw transaction strings, compare brands side-by-side, and assemble logo walls — all from one screen.
 
-![dark mode dashboard](https://img.shields.io/badge/UI-Dark%20mode-0a0a0c) ![Bun](https://img.shields.io/badge/runtime-Bun-fbf0df) ![License](https://img.shields.io/badge/license-MIT-a78bfa)
+### 🌐 [**Live Demo → brandfetch-playground.vercel.app**](https://brandfetch-playground.vercel.app)
+
+![Live](https://img.shields.io/badge/live-brandfetch--playground.vercel.app-a78bfa?style=flat&logo=vercel&logoColor=white) ![Bun](https://img.shields.io/badge/runtime-Bun-fbf0df) ![License](https://img.shields.io/badge/license-MIT-a78bfa)
 
 ## What's inside
 
