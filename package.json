@@ -6,9 +6,10 @@
   "type": "module",
   "scripts": {
     "start": "bun run server.ts",
-    "dev": "bun --watch server.ts"
+    "dev": "bun --watch server.ts",
+    "vercel-dev": "vercel dev"
   },
   "engines": {
-    "bun": ">=1.0.0"
+    "node": ">=18.0.0"
   }
 }
